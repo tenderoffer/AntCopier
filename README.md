@@ -1,6 +1,5 @@
 # antcopier
-![ant](https://github.com/tenderoffer/antcopier/assets/140397303/f1ad0500-0870-4b05-a278-b1412e1487de)
-
+![antcopier](https://github.com/tenderoffer/antcopier/assets/140397303/c25b4b4e-86be-45fd-a541-0e2855345282)
 《蚂蚁搬家》投标辅助工具
 
 解压缩密码：2023a
