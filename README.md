@@ -1,6 +1,5 @@
-# AntCopier
-![antcopier](https://github.com/tenderoffer/antcopier/assets/140397303/c25b4b4e-86be-45fd-a541-0e2855345282)
-**《蚂蚁搬家》投标辅助工具**
+![antcopier](https://github.com/tenderoffer/antcopier/assets/140397303/c25b4b4e-86be-45fd-a541-0e2855345282)   
+# **《蚂蚁搬家》投标辅助工具**
 
 [点击下载](https://raw.githubusercontent.com/tenderoffer/AntCopier/main/蚂蚁搬家投标辅助工具.rar)    
 解压缩密码：2023a    
@@ -8,7 +7,7 @@
 目前全功能免费体验    
 
 **软件功能：**    
-   帮您把计价软件编制版中的组价数据自动复制到投标版中
+&emsp;&emsp;帮您把计价软件编制版中的组价数据自动复制到投标版中
 
 ## 版本更新历史及开发计划
 **2023-07-21**    
@@ -18,7 +17,7 @@
 **2023-08-10**    
 &emsp;&emsp;支持复制五星计价软件的消耗量数据    
 **2023-08-17**    
-&emsp;&emsp;支持复制五星计价软件的消耗量数据    
+&emsp;&emsp;支持复制晨曦计价软件的消耗量数据    
 **2023-08-24**    
 &emsp;&emsp;支持使用五星计价软件的清单方案窗口复制定额和消耗量数据    
 **.**    
