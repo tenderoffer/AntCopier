@@ -32,7 +32,9 @@
 &emsp;&emsp;支持五星计价软件的消耗量数据复制     
 **2023-08-29 v2023.8.28**     
 &emsp;&emsp;提高五星计价软件复制消耗量数据的兼容性。       
-&emsp;&emsp;        
+**2023-08-30 v2023.8.29**     
+&emsp;&emsp;优化五星计价软件复制消耗量数据的逻辑。       
+&emsp;&emsp;     
 &emsp;&emsp;该版本已经测试支持以下软件版本：    
 &emsp;&emsp;&emsp;&emsp;五星计价软件    
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;编制版：五星工程计价(22版)v23.08.16    
