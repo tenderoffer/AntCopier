@@ -19,9 +19,12 @@
 &emsp;&emsp;3.因【蚂蚁搬家.exe】可执行文件经加密处理，某些杀毒软件可能会误认为是病毒，请添加白名单或排除项。   
 
 ## 最新版本
-**v2023.9.08**         
-&emsp;&emsp;支持五星计价软件标准清单方案窗口的数据复制            
-&emsp;&emsp;优化晨曦计价软件复制定额时的弹窗处理                 
+**v2023.9.18**         
+&emsp;&emsp;五星：    
+&emsp;&emsp;&emsp;&emsp;修改设置显示空子项无法即时生效的BUG    
+&emsp;&emsp;&emsp;&emsp;增加清单方案的自动保存功能    
+&emsp;&emsp;晨曦：    
+&emsp;&emsp;&emsp;&emsp;修改复制定额的部分BUG                   
 &emsp;&emsp;        
 &emsp;&emsp;该版本已经测试支持以下软件版本：       
 &emsp;&emsp;&emsp;&emsp;五星计价软件    
@@ -29,7 +32,7 @@
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;投标版：五星工程计价(22投标版)v1.0.12、五星工程计价(22投标版)v1.0.17    
 &emsp;&emsp;&emsp;&emsp;晨曦计价软件    
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;编制版：晨曦工程计价2017v23.6.6.3    
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;投标版：晨曦投标计价系统2022版 v23.8.1.1   
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;投标版：晨曦投标计价系统2022版 v23.8.1.1  
     
 ## 版本开发计划
 **2023-09-21**    
