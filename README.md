@@ -19,29 +19,22 @@
 &emsp;&emsp;3.因【蚂蚁搬家.exe】可执行文件经加密处理，某些杀毒软件可能会误认为是病毒，请添加白名单或排除项。   
 
 ## 最新版本
-**v2023.10.17**         
-&emsp;&emsp;为增加部分功能预修改软件界面       
-&emsp;&emsp;优化五星计价软件复制定额时的部分逻辑   
-&emsp;&emsp;优化晨曦计价软件复制定额时的部分逻辑        
+**v2023.11.21**         
+&emsp;&emsp;重构底层UI自动化组件代码，提高软件运行的稳定性         
+&emsp;&emsp;开放画面上的所有功能      
+&emsp;&emsp;增加对五星新版本计价的支持       
+&emsp;&emsp;增加对晨曦新版本计价的支持          
 &emsp;&emsp;        
 &emsp;&emsp;该版本已经测试支持以下软件版本：       
 &emsp;&emsp;&emsp;&emsp;五星计价软件    
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;编制版：五星工程计价(22版)v23.9.1    
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;投标版：五星工程计价(22投标版)v1.0.12、五星工程计价(22投标版)v1.0.17    
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;编制版：五星工程计价(22版)v23.11.14       
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;投标版：五星工程计价(22投标版)v1.0.18及以上        
 &emsp;&emsp;&emsp;&emsp;晨曦计价软件    
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;编制版：晨曦工程计价2017v23.6.6.3    
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;投标版：晨曦投标计价系统2022版 v23.8.1.1   
-    
-## 版本开发计划
-**2023-11-15**    
-&emsp;&emsp;支持复制晨曦计价软件的消耗量数据     
-**2023-11-29**     
-&emsp;&emsp;支持使用五星计价软件的集中组价窗口复制定额和消耗量数据     
-**.**    
-**.**    
-**.**    
-**2024-01-01**    
-&emsp;&emsp;接入广告，发布正式版，持续功能更新和BUG修复     
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;编制版：晨曦工程计价2017 v23.10.2.0      
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;投标版：晨曦投标计价系统2022版 v23.11.1.0     
+
+
+
 
 
 
