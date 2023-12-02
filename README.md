@@ -1,7 +1,7 @@
 ![antcopier](https://github.com/tenderoffer/antcopier/assets/140397303/c25b4b4e-86be-45fd-a541-0e2855345282)   
 # **《蚂蚁搬家》投标辅助工具**
 
-[点击下载](https://raw.githubusercontent.com/tenderoffer/AntCopier/main/蚂蚁搬家投标辅助工具.rar)    
+## [点击下载](https://raw.githubusercontent.com/tenderoffer/AntCopier/main/蚂蚁搬家投标辅助工具.rar)    
 解压缩密码：2023a    
 
 目前全功能免费体验    
@@ -20,10 +20,7 @@
 
 ## 最新版本
 **v2023.11.21**         
-&emsp;&emsp;重构底层UI自动化组件代码，提高软件运行的稳定性         
-&emsp;&emsp;开放画面上的所有功能      
-&emsp;&emsp;增加对五星新版本计价的支持       
-&emsp;&emsp;增加对晨曦新版本计价的支持          
+&emsp;&emsp;修复部分电脑复制定额时卡住或出错的问题           
 &emsp;&emsp;        
 &emsp;&emsp;该版本已经测试支持以下软件版本：       
 &emsp;&emsp;&emsp;&emsp;五星计价软件    
