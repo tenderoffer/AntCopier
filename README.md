@@ -1,7 +1,7 @@
 ![antcopier](https://github.com/tenderoffer/antcopier/assets/140397303/c25b4b4e-86be-45fd-a541-0e2855345282)   
-# **AntCopier投标辅助工具**
+# **AntCopier辅助工具**
 
-## [点击下载](https://raw.githubusercontent.com/tenderoffer/AntCopier/main/AntCopier投标辅助工具.rar)    
+## [点击下载最新版本](https://raw.githubusercontent.com/tenderoffer/AntCopier/main/AntCopier辅助工具.rar)    
 解压缩密码：2023a    
 
 # **常见问题解答**       
@@ -51,12 +51,10 @@ _一切皆为了减少不必要的麻烦，请谅解！_
 - Windows 11 专业版 22H2
 - Windows 11 专业版 23H2
 
-#### **新版本将在更合理的模拟人工操作逻辑方面进行改进，追求速度快的请绕道！**
-
 ## 最新版本
-**v2024.09.14**         
-&emsp;&emsp;1.  修复弹窗(补充定额、补充材料、更材料的各类弹窗)的兼容性
-&emsp;&emsp;        
+**v2024.09.26**         
+&emsp;&emsp;1.  修复了一些已知Bug   
+&emsp;&emsp;      
 &emsp;&emsp;该版本已经测试支持以下软件版本：       
 &emsp;&emsp;&emsp;&emsp;五星计价软件    
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;编制版：五星工程计价(22版)v24.6.28       
